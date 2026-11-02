@@ -1,6 +1,6 @@
 ## Ex_02 Commercial Website 
 
-Date: 11.02.2026
+Date: 02.11.2026
 ## AIM
 To create a commercial website using CSS Flexbox.
 
@@ -1164,8 +1164,6 @@ h2 {
 
 ## OUTPUT :
 
-
-### Image Description
 ![Homepage](https://raw.githubusercontent.com/subashsubash7010/Commercial-Website-using-Flexbox/main/images/image.png)
 
 ![Screenshot 1](https://raw.githubusercontent.com/subashsubash7010/Commercial-Website-using-Flexbox/main/images/Screenshot%202026-11-02%20185950.png)
