@@ -1,4 +1,5 @@
-Ex02 Commercial Website
+## Ex_02 Commercial Website 
+
 Date: 11.02.2026
 ## AIM
 To create a commercial website using CSS Flexbox.
@@ -1162,8 +1163,14 @@ h2 {
 ```
 
 ## OUTPUT :
-D:\Modern web\Exp_02_MWAD\images\image.png
-D:\Modern web\Exp_02_MWAD\images\Screenshot 2026-11-02 185950.png
-D:\Modern web\Exp_02_MWAD\images\Screenshot 2026-11-02 190119.png
+```
+Exp_02_MWAD\images\image.png
+```
+```
+Exp_02_MWAD\images\Screenshot 2026-11-02 185950.png
+```
+```
+Exp_02_MWAD\images\Screenshot 2026-11-02 190119.png
+```
 ## RESULT :
 The program for creating commercial website using CSS Flexbox is executed successfully.
