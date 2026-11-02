@@ -1162,11 +1162,8 @@ h2 {
 ```
 
 ## OUTPUT :
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1b7d5eb8-16fb-46d9-aa62-9c37a8f4a461" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a3727385-204a-4c53-abad-c0f74928fa3b" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/333ee684-a85b-4236-952a-307e3441cba3" />
-
+![alt text](images/image.png)
+![alt text](<images/Screenshot 2026-11-02 185950.png>)
+![alt text](<images/Screenshot 2026-11-02 190119.png>)
 ## RESULT :
 The program for creating commercial website using CSS Flexbox is executed successfully.
-#   C o m m e r c i a l - W e b s i t e - u s i n g - F l e x b o x  
- 
