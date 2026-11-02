@@ -1165,11 +1165,15 @@ h2 {
 ## OUTPUT :
 
 
-<img src="Exp_02_MWAD/images/image.png" alt="Image Description" width="100%" />
+### Image Description
+![Image Description](Exp_02_MWAD/images/image.png)
 
-<img src="Exp_02_MWAD/images/Screenshot 2026-11-02 185950.png" alt="Screenshot 1" width="100%" />
+### Screenshot 1
+![Screenshot 1](Exp_02_MWAD/images/Screenshot%202026-11-02%20185950.png)
 
-<img src="Exp_02_MWAD/images/Screenshot 2026-11-02 190119.png" alt="Screenshot 2" width="100%" />
+### Screenshot 2
+![Screenshot 2](Exp_02_MWAD/images/Screenshot%202026-11-02%20190119.png)
+
 
 
 ## RESULT :
