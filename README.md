@@ -1166,13 +1166,11 @@ h2 {
 
 
 ### Image Description
-![Image Description](Exp_02_MWAD/images/image.png)
+![Homepage](https://raw.githubusercontent.com/subashsubash7010/Commercial-Website-using-Flexbox/main/images/image.png)
 
-### Screenshot 1
-![Screenshot 1](Exp_02_MWAD/images/Screenshot%202026-11-02%20185950.png)
+![Screenshot 1](https://raw.githubusercontent.com/subashsubash7010/Commercial-Website-using-Flexbox/main/images/Screenshot%202026-11-02%20185950.png)
 
-### Screenshot 2
-![Screenshot 2](Exp_02_MWAD/images/Screenshot%202026-11-02%20190119.png)
+![Screenshot 2](https://raw.githubusercontent.com/subashsubash7010/Commercial-Website-using-Flexbox/main/images/Screenshot%202026-11-02%20190119.png)
 
 
 
