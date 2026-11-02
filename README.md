@@ -1,55 +1,55 @@
 Ex02 Commercial Website
 Date: 11.02.2026
-AIM
+## AIM
 To create a commercial website using CSS Flexbox.
 
-ALGORITHM :
-STEP 1
+## ALGORITHM :
+STEP 1:
 Create an HTML file (index.html)
 
-STEP 2
+STEP 2:
 Create a CSS file (style.css)
 
-STEP 3
+STEP 3:
 Include a navigation bar with links to different sections.
 
-STEP 4
+STEP 4:
 Add structured sections for Homepage, Products / Services, About Us, Contact Details and User Account.
 
-STEP 5
+STEP 5:
 Include social media links at the footer with copyright information.
 
-STEP 6
+STEP 6:
 Define global styles for fonts, colors, and layout.
 
-STEP 7
+STEP 7:
 Style the header, navigation bar, and sections.
 
-STEP 8
+STEP 8:
 Use Flexbox for layout design.
 
-STEP 9
+STEP 9:
 Add hover effects and transitions for interactivity.
 
-STEP 10
+STEP 10:
 Add Images and Media.
 
-STEP 11
+STEP 11:
 Use optimized images for a professional look.
 
-STEP 12
+STEP 12:
 Open the HTML file in a browser to check layout and functionality.
 
-STEP 13
+STEP 13:
 Fix styling issues and refine content placement.
 
-STEP 14
+STEP 14:
 Deploy the website.
 
-STEP 15
+STEP 15:
 Upload to GitHub Pages for free hosting.
 
-PROGRAM : 
+## PROGRAM : 
 index.html
 ```
 <!DOCTYPE html>
@@ -1161,10 +1161,12 @@ h2 {
 }
 ```
 
-OUTPUT :
+## OUTPUT :
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1b7d5eb8-16fb-46d9-aa62-9c37a8f4a461" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a3727385-204a-4c53-abad-c0f74928fa3b" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/333ee684-a85b-4236-952a-307e3441cba3" />
 
-RESULT :
+## RESULT :
 The program for creating commercial website using CSS Flexbox is executed successfully.
+#   C o m m e r c i a l - W e b s i t e - u s i n g - F l e x b o x  
+ 
