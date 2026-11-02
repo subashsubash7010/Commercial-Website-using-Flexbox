@@ -1163,14 +1163,12 @@ h2 {
 ```
 
 ## OUTPUT :
-```
-Exp_02_MWAD\images\image.png
-```
-```
-Exp_02_MWAD\images\Screenshot 2026-11-02 185950.png
-```
-```
-Exp_02_MWAD\images\Screenshot 2026-11-02 190119.png
-```
+
+![Image Description](Exp_02_MWAD/images/image.png)
+
+![Screenshot 1](Exp_02_MWAD/images/Screenshot%202026-11-02%20185950.png)
+
+![Screenshot 2](Exp_02_MWAD/images/Screenshot%202026-11-02%20190119.png)
+
 ## RESULT :
 The program for creating commercial website using CSS Flexbox is executed successfully.
